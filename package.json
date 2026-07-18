@@ -1,0 +1,21 @@
+{
+  "name": "interchange",
+  "version": "1.0.0",
+  "description": "Delhi NCR Metro Commute & Lost-and-Found Platform",
+  "private": true,
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "node api/server.js",
+    "ingest": "node data/ingest.js",
+    "build:frontend": "cd frontend && npm run build",
+    "test": "node engine/__tests__/routing.test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "@elastic/elasticsearch": "^8.12.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

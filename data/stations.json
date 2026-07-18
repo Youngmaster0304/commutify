@@ -1,0 +1,2907 @@
+[
+ {
+  "name": "AIIMS",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.56892,
+  "lon": 77.20771,
+  "opened": "02-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Adarsh Nagar",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.71642,
+  "lon": 77.17046,
+  "opened": "04-02-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Akshardham",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.61806,
+  "lon": 77.27869,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Alpha 1 Greater Noida",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4709,
+  "lon": 77.5127,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Anand Vihar",
+  "lines": [
+   "Blue line",
+   "Blue line branch",
+   "Pink line"
+  ],
+  "lat": 28.64695,
+  "lon": 77.31603,
+  "opened": "06-01-2010",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Arjan Garh",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.48076,
+  "lon": 77.12583,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Arthala",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.676999,
+  "lon": 77.3918919,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Ashok Park Main",
+  "lines": [
+   "Green line",
+   "Green line branch"
+  ],
+  "lat": 28.67292,
+  "lon": 77.1442,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Ashram",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.5724231,
+  "lon": 77.2585979,
+  "opened": "31-12-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Azadpur",
+  "lines": [
+   "Pink line",
+   "Yellow line"
+  ],
+  "lat": 28.70696,
+  "lon": 77.18053,
+  "opened": "04-02-2009",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Badarpur Border",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.49334,
+  "lon": 77.30307,
+  "opened": "14-01-2011",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Badkal Mor",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.422814,
+  "lon": 77.310278,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Bahdurgarh City",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6907847,
+  "lon": 76.9354851,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Barakhamba",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.63003,
+  "lon": 77.22436,
+  "opened": "30-12-2005",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Bata Chowk",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.3858361,
+  "lon": 77.313462,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Belvedere Towers",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "14-11-2013",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Bhikaji Cama Place",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.56790025,
+  "lon": 77.18701648,
+  "opened": "06-08-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Botanical Garden",
+  "lines": [
+   "Blue line",
+   "Magenta line"
+  ],
+  "lat": 28.56409,
+  "lon": 77.3342,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Brigadier Hoshiar Singh",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6974603,
+  "lon": 76.9192027,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Central Secretariat",
+  "lines": [
+   "Voilet line",
+   "Yellow line"
+  ],
+  "lat": 28.61474,
+  "lon": 77.21191,
+  "opened": "03-07-2005",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Chandni Chowk",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.65785,
+  "lon": 77.23014,
+  "opened": "03-07-2005",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Chawri Bazar",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.64931,
+  "lon": 77.22637,
+  "opened": "03-07-2005",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Chhattarpur",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.50671,
+  "lon": 77.17484,
+  "opened": "26-08-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Chirag Delhi",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5381411,
+  "lon": 77.2280694,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Civil Lines",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.6768508,
+  "lon": 77.2250299,
+  "opened": "20-12-2004",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Cyber City",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "07-05-2014",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "DLF Phase 1",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "31-03-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "DLF Phase 2",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "14-11-2013",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "DLF Phase 3",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "14-11-2013",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dabri Mor - Janakpuri South",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.6157555,
+  "lon": 77.085178,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Dashrath Puri",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.6018751,
+  "lon": 77.0823561,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Delhi Aerocity",
+  "lines": [
+   "Orange line"
+  ],
+  "lat": 28.54881,
+  "lon": 77.12092,
+  "opened": "15-08-2011",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Delhi Cantt",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.5938331,
+  "lon": 77.13497891,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Delhi Gate",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.6392036,
+  "lon": 77.2407823,
+  "opened": "28-05-2017",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Delta 1 Greater Noida",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.474388,
+  "lon": 77.50399,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Depot Greater Noida",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.474388,
+  "lon": 77.50399,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dhaula Kuan",
+  "lines": [
+   "Orange line",
+   "Pink line"
+  ],
+  "lat": 28.59178,
+  "lon": 77.16155,
+  "opened": "15-08-2011",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Dilli Haat INA",
+  "lines": [
+   "Pink line",
+   "Yellow line"
+  ],
+  "lat": 28.57526,
+  "lon": 77.20935,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Dilshad Garden",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.67592,
+  "lon": 77.32142,
+  "opened": "04-06-2008",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Durgabai Deshmukh South Campus",
+  "lines": [
+   "Orange line",
+   "Pink line"
+  ],
+  "lat": 28.5894384,
+  "lon": 77.1690817,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Dwarka",
+  "lines": [
+   "Blue line",
+   "Gray line"
+  ],
+  "lat": 28.61564,
+  "lon": 77.02197,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Dwarka Mor",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.61932,
+  "lon": 77.03326,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 10",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.58068,
+  "lon": 77.05682,
+  "opened": "01-04-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 11",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.58657,
+  "lon": 77.04929,
+  "opened": "01-04-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 12",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.59232,
+  "lon": 77.04051,
+  "opened": "01-04-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 13",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.59722,
+  "lon": 77.03326,
+  "opened": "01-04-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 14",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.60223,
+  "lon": 77.02588,
+  "opened": "01-04-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 21",
+  "lines": [
+   "Blue line",
+   "Orange line"
+  ],
+  "lat": 28.55226,
+  "lon": 77.05828,
+  "opened": "30-10-2010",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Dwarka Sector 8",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.56583,
+  "lon": 77.06706,
+  "opened": "30-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Dwarka Sector 9",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.57487,
+  "lon": 77.06454,
+  "opened": "01-04-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "ESI BASAI DARAPUR",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6580737,
+  "lon": 77.1272678,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "East Azad Nagar",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6646964,
+  "lon": 77.284881,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Escorts Mujesar",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.3702344,
+  "lon": 77.3149203,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "GNIDA Office",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.474388,
+  "lon": 77.50399,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Ghevra Metro station",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6852384,
+  "lon": 76.9961591,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Ghitorni",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.49383,
+  "lon": 77.14922,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Gokulpuri",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.7024752,
+  "lon": 77.2861253,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Golf Course",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.56714,
+  "lon": 77.34598,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Govind Puri",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.54451,
+  "lon": 77.26401,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Greater Kailash",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5418777,
+  "lon": 77.2384553,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Green Park",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.55979,
+  "lon": 77.20682,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Guru Dronacharya",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.48203,
+  "lon": 77.10232,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Guru Tegh Bahadur Nagar",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.69785,
+  "lon": 77.20722,
+  "opened": "04-02-2009",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Haiderpur Badli Mor",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.7301214,
+  "lon": 77.1494029,
+  "opened": "10-11-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Hauz Khas",
+  "lines": [
+   "Magenta line",
+   "Yellow line"
+  ],
+  "lat": 28.54335,
+  "lon": 77.20667,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Hindon River",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.878965,
+  "lon": 77.4154832,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Huda City Centre",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.45927,
+  "lon": 77.07268,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "IFFCO Chowk",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.47209,
+  "lon": 77.07175,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "IGI Airport",
+  "lines": [
+   "Orange line"
+  ],
+  "lat": 28.55693,
+  "lon": 77.08669,
+  "opened": "23-02-2011",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "IIT Delhi",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.544788,
+  "lon": 77.18987,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "IP Extension",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6288991,
+  "lon": 77.31019788,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "ITO",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.6305091,
+  "lon": 77.2414363,
+  "opened": "08-06-2015",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Inderlok",
+  "lines": [
+   "Green line",
+   "Red line"
+  ],
+  "lat": 28.67319,
+  "lon": 77.16994,
+  "opened": "03-10-2003",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Inderlok Conn:Red",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.67319,
+  "lon": 77.16994,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Indraprastha",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.62051,
+  "lon": 77.24993,
+  "opened": "11-11-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "JAMIA MILLIA ISLAMIA",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.55849025,
+  "lon": 77.28116474,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jaffrabad",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6826822,
+  "lon": 77.2748055,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jahangirpuri",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.72592,
+  "lon": 77.16267,
+  "opened": "04-02-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jama Masjid",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.65001015,
+  "lon": 77.23767617,
+  "opened": "28-05-2017",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Janak Puri East",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.63305,
+  "lon": 77.08669,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Janak Puri West",
+  "lines": [
+   "Blue line",
+   "Magenta line"
+  ],
+  "lat": 28.62943,
+  "lon": 77.07767,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Jangpura",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.5843,
+  "lon": 77.23766,
+  "opened": "03-10-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Janpath",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.6088598,
+  "lon": 77.2181649,
+  "opened": "26-06-2014",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Jasola",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.53824,
+  "lon": 77.28319,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jasola Vihar Shaheen Bagh",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5458279,
+  "lon": 77.2966578,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jawaharlal Nehru Stadium",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.5904,
+  "lon": 77.23326,
+  "opened": "03-10-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Jhandewalan",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.64427,
+  "lon": 77.19988,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jhil Mil",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.67579,
+  "lon": 77.31239,
+  "opened": "04-06-2008",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Johri Enclave",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.71288,
+  "lon": 77.2861253,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Jor Bagh",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.58708,
+  "lon": 77.21209,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Kailash Colony",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.55527,
+  "lon": 77.24205,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Kalindi Kunj",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5452187,
+  "lon": 77.3059891,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Kalkaji Mandir",
+  "lines": [
+   "Magenta line",
+   "Voilet line"
+  ],
+  "lat": 28.55007,
+  "lon": 77.25835,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Kanhaiya Nagar",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.68254,
+  "lon": 77.16459,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Karkar Duma",
+  "lines": [
+   "Blue line",
+   "Blue line branch",
+   "Pink line"
+  ],
+  "lat": 28.64849,
+  "lon": 77.30558,
+  "opened": "06-01-2010",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Karkarduma Court",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6536001,
+  "lon": 77.2957877,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Karol Bagh",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.644,
+  "lon": 77.18855,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Kashmere Gate",
+  "lines": [
+   "Red line",
+   "Voilet line",
+   "Yellow line"
+  ],
+  "lat": 28.6675,
+  "lon": 77.22817,
+  "opened": "24-12-2002",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Kaushambi",
+  "lines": [
+   "Blue line branch"
+  ],
+  "lat": 28.64544,
+  "lon": 77.32432,
+  "opened": "14-07-2011",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Keshav Puram",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.68894,
+  "lon": 77.1616,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Khan Market",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.60276,
+  "lon": 77.22829,
+  "opened": "03-10-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Kirti Nagar",
+  "lines": [
+   "Blue line",
+   "Green line",
+   "Green line branch"
+  ],
+  "lat": 28.65575,
+  "lon": 77.15057,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Knowledge Park II",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4568669,
+  "lon": 77.50005403,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Kohat Enclave",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.6981,
+  "lon": 77.14024,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Krishna Nagar",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6578461,
+  "lon": 77.2901853,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Lajpat Nagar",
+  "lines": [
+   "Pink line",
+   "Voilet line"
+  ],
+  "lat": 28.57079,
+  "lon": 77.23653,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Lal Quila",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 27.92086195,
+  "lon": 77.52850191,
+  "opened": "28-05-2017",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Laxmi Nagar",
+  "lines": [
+   "Blue line branch"
+  ],
+  "lat": 28.63064,
+  "lon": 77.27749,
+  "opened": "06-01-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Lok Kalyan Marg",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.59726,
+  "lon": 77.21088,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "MG Road",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.47957,
+  "lon": 77.08006,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Madipur",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.67734,
+  "lon": 77.11965,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Maharaja Surajmal Stadium",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6818,
+  "lon": 77.07385,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Majlis Park",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.7244312,
+  "lon": 77.181964,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Major Mohit Sharma",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.6776112,
+  "lon": 77.3581426,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Malviya Nagar",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.52798,
+  "lon": 77.20565,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Mandawali - West Vinod Nagar",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6249712,
+  "lon": 77.3044906,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mandi House",
+  "lines": [
+   "Blue line",
+   "Voilet line"
+  ],
+  "lat": 28.62588,
+  "lon": 77.2341,
+  "opened": "11-11-2006",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Mansarovar Park",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.67544,
+  "lon": 77.30095,
+  "opened": "04-06-2008",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Maujpur",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.69197845,
+  "lon": 77.27962397,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Maya Puri",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6371795,
+  "lon": 77.1297333,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mayur Vihar Extention",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.59415815,
+  "lon": 77.29458935,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mayur Vihar Phase-1",
+  "lines": [
+   "Blue line",
+   "Pink line"
+  ],
+  "lat": 28.60442,
+  "lon": 77.29455,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Mayur Vihar Pocket I",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6058619,
+  "lon": 77.2987023,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mewala Maharajpur",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.4418747,
+  "lon": 77.3023001,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Model Town",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.70278,
+  "lon": 77.19363,
+  "opened": "04-02-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mohan Estate",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.51938,
+  "lon": 77.29388,
+  "opened": "14-01-2011",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mohan Nagar",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.60631905,
+  "lon": 77.10608185,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Moolchand",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.56417,
+  "lon": 77.23423,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Moti Nagar",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.65784,
+  "lon": 77.14248,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Moulsari Avenue",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "14-11-2013",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mundka",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.68321,
+  "lon": 77.03133,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Mundka Industrial Area (MIA)",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6834491,
+  "lon": 77.0171333,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Munirka",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.554886,
+  "lon": 77.1710841,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "N.H.P.C. Chowk",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.45769,
+  "lon": 77.2219388,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "NSEZ Noida",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.535517,
+  "lon": 77.391029,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Najafgarh",
+  "lines": [
+   "Gray line"
+  ],
+  "lat": 28.612304,
+  "lon": 76.9823908,
+  "opened": "04-10-2019",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Nangli",
+  "lines": [
+   "Gray line"
+  ],
+  "lat": 28.6173003,
+  "lon": 77.0104375,
+  "opened": "04-10-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Nangloi",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.68231,
+  "lon": 77.06471,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Nangloi Railway Station",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.68208,
+  "lon": 77.05596,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Naraina Vihar",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6273375,
+  "lon": 77.1403175,
+  "opened": "14-03-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Nawada",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.62025,
+  "lon": 77.04514,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Neelam Chowk Ajronda",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.3974824,
+  "lon": 77.3123599,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Nehru Enclave",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5460584,
+  "lon": 77.2515057,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Nehru Place",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.55148,
+  "lon": 77.25154,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Netaji Subash Place",
+  "lines": [
+   "Pink line",
+   "Red line"
+  ],
+  "lat": 28.69591,
+  "lon": 77.15226,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "New Ashok Nagar",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.58916,
+  "lon": 77.30204,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "New Delhi",
+  "lines": [
+   "Orange line",
+   "Yellow line"
+  ],
+  "lat": 28.64307,
+  "lon": 77.22144,
+  "opened": "03-07-2005",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "New Delhi-Airport Express",
+  "lines": [
+   "Orange line",
+   "Yellow line"
+  ],
+  "lat": 28.64307,
+  "lon": 77.22144,
+  "opened": "23-02-2011",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Nirman Vihar",
+  "lines": [
+   "Blue line branch"
+  ],
+  "lat": 28.63663,
+  "lon": 77.28683,
+  "opened": "06-01-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida City Center",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.57466,
+  "lon": 77.35608,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 101",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.556402,
+  "lon": 77.384798,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 137",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.5090789,
+  "lon": 77.409015,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 142",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4758348,
+  "lon": 77.55447875,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 143",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.50266325,
+  "lon": 77.42625566,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 144",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4089049,
+  "lon": 76.9155232,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 145",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4089049,
+  "lon": 76.9155232,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 146",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4082289,
+  "lon": 76.963024,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 147",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4089049,
+  "lon": 76.9155232,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 148",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4758348,
+  "lon": 77.55447875,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 15",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.58512,
+  "lon": 77.31139,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 16",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.57819,
+  "lon": 77.31757,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 18",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.57081,
+  "lon": 77.32612,
+  "opened": "12-11-2009",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 34",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.4808629,
+  "lon": 77.0848883,
+  "opened": "09-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 50",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.535517,
+  "lon": 77.391029,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 51",
+  "lines": [
+   "Aqua line",
+   "Blue line"
+  ],
+  "lat": 28.5857,
+  "lon": 77.3753,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Noida Sector 52",
+  "lines": [
+   "Aqua line",
+   "Blue line"
+  ],
+  "lat": 28.4808629,
+  "lon": 77.0848883,
+  "opened": "09-03-2019",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Noida Sector 59",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.4808629,
+  "lon": 77.0848883,
+  "opened": "09-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 61",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.4808629,
+  "lon": 77.0848883,
+  "opened": "09-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 62",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.4808629,
+  "lon": 77.0848883,
+  "opened": "09-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 76",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.568746,
+  "lon": 77.382685,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 81",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.6225753,
+  "lon": 77.3743146,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Noida Sector 83",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.524115,
+  "lon": 77.397244,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Okhla",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.54292,
+  "lon": 77.27504,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Okhla Bird Sanctuary",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5529418,
+  "lon": 77.321595,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Okhla NSIC",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5544828,
+  "lon": 77.2648487,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Okhla Vihar",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5613002,
+  "lon": 77.2919304,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Old Faridabad",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.4808629,
+  "lon": 77.0848883,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Palam",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5918933,
+  "lon": 77.0828242,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Panchsheel Park",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5433525,
+  "lon": 77.2140757,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Pandit Shree Ram Sharma",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.689281,
+  "lon": 76.9511988,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Pari Chowk Greater Noida",
+  "lines": [
+   "Aqua line"
+  ],
+  "lat": 28.4631285,
+  "lon": 77.50809851,
+  "opened": "25-01-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Paschim Vihar (East)",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6773,
+  "lon": 77.11228,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Paschim Vihar (West)",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.67855,
+  "lon": 77.10227,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Patel Chowk",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.62295,
+  "lon": 77.21389,
+  "opened": "03-07-2005",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Patel Nagar",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.64498,
+  "lon": 77.16929,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Peera Garhi",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.67959,
+  "lon": 77.09261,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Pitam Pura",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.70317,
+  "lon": 77.13223,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Pratap Nagar",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.66662,
+  "lon": 77.19882,
+  "opened": "03-10-2003",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Preet Vihar",
+  "lines": [
+   "Blue line branch"
+  ],
+  "lat": 28.64171,
+  "lon": 77.29543,
+  "opened": "06-01-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Pul Bangash",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.66636,
+  "lon": 77.20727,
+  "opened": "03-10-2003",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Punjabi Bagh",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.67289,
+  "lon": 77.14614,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Punjabi Bagh West",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6703201,
+  "lon": 77.1420875,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Qutab Minar",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.51302,
+  "lon": 77.18648,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "R K Ashram Marg",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.63923,
+  "lon": 77.2084,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "RK Puram",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5514261,
+  "lon": 77.1847012,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Raj Bagh",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.6408602,
+  "lon": 77.2094999,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Raja Nahar Singh",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.3400192,
+  "lon": 77.3164281,
+  "opened": "19-11-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rajdhani Park",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.68221,
+  "lon": 77.04381,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rajendra Place",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.6425,
+  "lon": 77.17815,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rajiv Chowk",
+  "lines": [
+   "Blue line",
+   "Yellow line"
+  ],
+  "lat": 28.63282,
+  "lon": 77.21826,
+  "opened": "03-07-2005",
+  "layout": "Underground",
+  "interchange": true
+ },
+ {
+  "name": "Rajouri Garden",
+  "lines": [
+   "Blue line",
+   "Pink line"
+  ],
+  "lat": 28.64902,
+  "lon": 77.1227,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Ramesh Nagar",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.65274,
+  "lon": 77.13164,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rithala(last station)",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.72072,
+  "lon": 77.10713,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rohini East",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.7076,
+  "lon": 77.12591,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rohini Sector 18-19",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.7383477,
+  "lon": 77.1398323,
+  "opened": "10-11-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Rohini West",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.71483,
+  "lon": 77.11467,
+  "opened": "31-03-2004",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sadar Bazaar Cantonment",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5771509,
+  "lon": 77.1111533,
+  "opened": "29-05-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Saket",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.5206,
+  "lon": 77.20138,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Samaypur Badli",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.7446158,
+  "lon": 77.1382654,
+  "opened": "10-11-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sant Surdas - Sihi",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.3546513,
+  "lon": 77.3162264,
+  "opened": "19-11-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sarai",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.6517178,
+  "lon": 77.2219388,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sarai Kale Khan Hazrat Nizamuddin",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.5887494,
+  "lon": 77.2572494,
+  "opened": "31-12-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Sarita Vihar",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.52878,
+  "lon": 77.28826,
+  "opened": "03-10-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sarojini Nagar",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.5741575,
+  "lon": 77.1953703,
+  "opened": "06-08-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Satguru Ram Singh Marg",
+  "lines": [
+   "Green line branch"
+  ],
+  "lat": 28.66199,
+  "lon": 77.15748,
+  "opened": "24-08-2011",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sector 28 Faridabad",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.54525655,
+  "lon": 77.03257609,
+  "opened": "06-09-2015",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sector 42-43",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "25-04-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sector 53-54",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "25-04-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sector 54 Chowk",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "31-03-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sector 55-66",
+  "lines": [
+   "Rapid Metro"
+  ],
+  "lat": 28.4936,
+  "lon": 77.0935,
+  "opened": "31-03-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Seelampur",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.66989,
+  "lon": 77.2667,
+  "opened": "25-12-2002",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shadipur",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.6516,
+  "lon": 77.15824,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shahdara",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.67345,
+  "lon": 77.28962,
+  "opened": "24-12-2002",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shaheed Nagar",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.5307795,
+  "lon": 77.2120573,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shaheed Sthal",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.6706109,
+  "lon": 77.4155822,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shakurpur",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6857668,
+  "lon": 77.1496094,
+  "opened": "14-03-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shalimar Bagh",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.71745265,
+  "lon": 77.15086655,
+  "opened": "14-03-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Shankar Vihar",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.55743865,
+  "lon": 77.13966549,
+  "opened": "29-05-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shastri Nagar",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.66999,
+  "lon": 77.18169,
+  "opened": "03-10-2003",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shastri Park",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.668,
+  "lon": 77.24994,
+  "opened": "25-12-2002",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shiv Vihar",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.61753755,
+  "lon": 77.03543017,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shivaji Park",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6749,
+  "lon": 77.13056,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Shivaji Stadium",
+  "lines": [
+   "Orange line"
+  ],
+  "lat": 28.62901,
+  "lon": 77.2119,
+  "opened": "23-02-2011",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Shyam park",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.6988072,
+  "lon": 28.6988072,
+  "opened": "08-03-2019",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sikandarpur",
+  "lines": [
+   "Rapid Metro",
+   "Yellow line"
+  ],
+  "lat": 28.48182,
+  "lon": 77.09235,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Sir Vishweshwaraiah Moti Bagh",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.5785326,
+  "lon": 77.175741,
+  "opened": "06-08-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "South Extension",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6517178,
+  "lon": 77.2219388,
+  "opened": "06-08-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Subhash Nagar",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.64039,
+  "lon": 77.10495,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sukhdev Vihar",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5597477,
+  "lon": 77.2749004,
+  "opened": "25-12-2017",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Sultanpur",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.49927,
+  "lon": 77.16153,
+  "opened": "21-06-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Supreme Court (Pragati Maidan)",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.62342,
+  "lon": 77.2425,
+  "opened": "11-11-2006",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Tagore Garden",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.64379,
+  "lon": 77.11284,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Terminal 1 IGI Airport",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.5771509,
+  "lon": 77.1111533,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Tikri Border",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6880254,
+  "lon": 76.9640828,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Tikri Kalan",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6868661,
+  "lon": 76.9772069,
+  "opened": "24-06-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Tilak Nagar",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.63657,
+  "lon": 77.09648,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Tis Hazari",
+  "lines": [
+   "Red line"
+  ],
+  "lat": 28.66711,
+  "lon": 77.21653,
+  "opened": "25-12-2002",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Trilokpuri Sanjay Lake",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.613453,
+  "lon": 77.3088549,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Tughlakabad",
+  "lines": [
+   "Voilet line"
+  ],
+  "lat": 28.50254,
+  "lon": 77.2993,
+  "opened": "14-01-2011",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Udyog Bhawan",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.61166,
+  "lon": 77.21198,
+  "opened": "03-09-2010",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Udyog Nagar",
+  "lines": [
+   "Green line"
+  ],
+  "lat": 28.6809,
+  "lon": 77.08077,
+  "opened": "02-04-2010",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Uttam Nagar East",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.62177,
+  "lon": 77.05585,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Uttam Nagar West",
+  "lines": [
+   "Blue line"
+  ],
+  "lat": 28.62481,
+  "lon": 77.0653,
+  "opened": "30-12-2005",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Vaishali",
+  "lines": [
+   "Blue line branch"
+  ],
+  "lat": 28.64997,
+  "lon": 77.33974,
+  "opened": "14-07-2011",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Vasant Vihar",
+  "lines": [
+   "Magenta line"
+  ],
+  "lat": 28.56069055,
+  "lon": 77.16079073,
+  "opened": "29-05-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Vidhan Sabha",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.68802,
+  "lon": 77.2214,
+  "opened": "20-12-2004",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Vinobapuri",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.5669763,
+  "lon": 77.2491906,
+  "opened": "31-12-2018",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Vinod Nagar East",
+  "lines": [
+   "Pink line"
+  ],
+  "lat": 28.6200437,
+  "lon": 77.3054069,
+  "opened": "31-10-2018",
+  "layout": "Elevated",
+  "interchange": false
+ },
+ {
+  "name": "Vishwavidyalaya",
+  "lines": [
+   "Yellow line"
+  ],
+  "lat": 28.6948,
+  "lon": 77.21483,
+  "opened": "20-12-2004",
+  "layout": "Underground",
+  "interchange": false
+ },
+ {
+  "name": "Welcome",
+  "lines": [
+   "Pink line",
+   "Red line"
+  ],
+  "lat": 28.6718,
+  "lon": 77.27756,
+  "opened": "25-12-2002",
+  "layout": "Elevated",
+  "interchange": true
+ },
+ {
+  "name": "Yamuna Bank",
+  "lines": [
+   "Blue line",
+   "Blue line branch"
+  ],
+  "lat": 28.62331,
+  "lon": 77.26792,
+  "opened": "10-05-2009",
+  "layout": "At-Grade",
+  "interchange": true
+ }
+]
