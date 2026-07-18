@@ -25,6 +25,10 @@ RUN npm install --production
 COPY engine/ ./engine/
 COPY comparator/ ./comparator/
 COPY search/ ./search/
+COPY chatbot/ ./chatbot/
+COPY bus/ ./bus/
+COPY fare/ ./fare/
+COPY auth/ ./auth/
 COPY api/ ./api/
 COPY data/ ./data/
 
