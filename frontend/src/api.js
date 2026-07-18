@@ -1,7 +1,4 @@
-// Automatically redirect to backend port 3001 if using React dev server on 3000
-export const API_BASE = typeof window !== 'undefined' && window.location.port === '3000'
-  ? 'http://localhost:3001'
-  : '';
+export const API_BASE = process.env.REACT_APP_API_URL || '';
 
 export async function fetchStations() {
   const res = await fetch(`${API_BASE}/api/stations`);

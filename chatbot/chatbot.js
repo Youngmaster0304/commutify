@@ -5,7 +5,7 @@ const fare = require('../fare/fareEngine');
 const fs = require('fs');
 const path = require('path');
 
-const GEMMA_API_KEY = process.env.GEMMA_API_KEY || 'csk-dtke94kp655w5dmm3585mm4yc64v6k5mdcwdmmkykk2wcvx9';
+const GEMMA_API_KEY = process.env.GEMMA_API_KEY || '';
 
 let lostFoundData = null;
 
