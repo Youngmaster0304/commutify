@@ -1,8 +1,6 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "build",
-  "framework": "create-react-app",
-  "rewrites": [
-    { "source": "/((?!static|favicon|logo|manifest|robots).*)", "destination": "/index.html" }
+  "version": 2,
+  "routes": [
+    { "src": "/[^.]+", "dest": "/index.html" }
   ]
 }
