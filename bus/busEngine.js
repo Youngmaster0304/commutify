@@ -344,13 +344,13 @@ function predictArrival(fromStop, toStop, departureTime) {
 
   const withPrediction = routes.map((r) => {
     const routeDepMinutes = parseTime(r.departure);
-    const waitMinutes = routeDepMinutes - depMinutes;
-    const actualWait = waitMinutes >= 0 ? waitMinutes : 1440 + waitMinutes;
-    const totalJourney = actualWait + r.duration_min;
+    let waitMinutes = routeDepMinutes - depMinutes;
+    if (waitMinutes < 0) waitMinutes += 1440;
+    const totalJourney = waitMinutes + r.duration_min;
 
     return {
       ...r,
-      wait_min: Math.round(actualWait * 10) / 10,
+      wait_min: Math.round(waitMinutes * 10) / 10,
       total_journey_min: Math.round(totalJourney * 10) / 10,
       confidence: getConfidence(r),
     };
