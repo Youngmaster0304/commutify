@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import StationPicker from './StationPicker';
+import { API_BASE } from '../api';
 
 export default function CrowdPredictor() {
   const [station, setStation] = useState('');
@@ -22,7 +23,7 @@ export default function CrowdPredictor() {
     setLoading(true);
     setError('');
     try {
-      const res = await fetch(`/api/crowd/predict?station=${encodeURIComponent(station)}&time=${time}&day=${day}`);
+      const res = await fetch(`${API_BASE}/api/crowd/predict?station=${encodeURIComponent(station)}&time=${time}&day=${day}`);
       if (!res.ok) {
         throw new Error('Failed to fetch prediction');
       }
