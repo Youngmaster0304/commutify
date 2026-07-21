@@ -2363,4 +2363,63 @@ body {
   .console-planner-swap {
     align-self: center;
   }
+  
+  /* Additional console layout mobile adaptation */
+  .console-layout {
+    display: flex;
+    flex-direction: column;
+  }
+  .console-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 16px;
+    gap: 12px;
+  }
+  .console-menu-list {
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    gap: 8px;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+  .console-menu-list li {
+    display: inline-block;
+  }
+  .console-menu-item {
+    padding: 8px 16px;
+    border-radius: 40px;
+    border: 1px solid var(--grey-light);
+    font-size: 13px;
+  }
+  .console-menu-item.active {
+    background: var(--yellow-accent);
+    color: #000;
+  }
+  .console-main-panel {
+    padding: 16px;
+    width: 100%;
+  }
+  .console-sidebar-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--grey-light);
+    padding-top: 12px;
+  }
+  
+  /* MetroMap component mobile layout override */
+  .MetroMap-container, 
+  div[style*="gridTemplateColumns"] {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  div[style*="borderRight"] {
+    border-right: none !important;
+    border-bottom: 1px solid var(--grey-light) !important;
+    width: 100% !important;
+    max-height: 250px !important;
+  }
 }
+
